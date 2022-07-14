@@ -34,7 +34,7 @@ Worst Case : O(n^2)
 Best Case : O(n)
  ```
  
- [Patika](www.patika.dev)
+ 
  
  # Dizi Sıralandıktan Sonra 18 Sayısı Hangi Case Kapsamına Girer?
  ```
@@ -49,3 +49,4 @@ Best Case : O(n)
 [3,5,7|,8,2,9,4,15,6]
 [3,5,7,8|,2,9,4,15,6]
  ```
+[Patika](www.patika.dev)
